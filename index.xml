@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://codeantithese.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Mar 2022 12:35:23 +0800</lastBuildDate><atom:link href="https://codeantithese.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://codeantithese.github.io/post/blog/</link>
+      <pubDate>Sat, 05 Mar 2022 12:35:23 +0800</pubDate>
+      
+      <guid>https://codeantithese.github.io/post/blog/</guid>
+      <description>Day1 1.advent n. 出现，到来，问世；基督降临节（Advent）；基督降临，基督复临
+2.widespread adj. 普遍的，广泛的
+3.pyramid n. 金字塔；金字塔形的物体（或一堆东西）；角锥体，棱锥体；（解剖）锥体；金字塔式组织（体系）；金字塔式台球（pyramids）；金字塔式控股；金字塔式骗局（pyramid scheme） v. 把……堆成尖塔（或角锥）形；在（小投资）上获得丰厚的收益；渐增，上涨；（使）渐增，（使）上涨
+4.remain v. 逗留，留下；剩余，遗留；保持不变，一直是；仍需去做（或处理） n. 剩余（物），遗迹；遗体，残骸
+5.slightly adv. 稍微，轻微地；（指某人身材）纤弱地，瘦小地
+6.percentage n. 百分比，百分率；部分，比例；利润分成，提成；&amp;lt;非正式&amp;gt;利益，好处
+7.remain v. 逗留，留下；剩余，遗留；保持不变，一直是；仍需去做（或处理） n. 剩余（物），遗迹；遗体，残骸
+8.consume v. 逗留，留下；剩余，遗留；保持不变，一直是；仍需去做（或处理） n. 剩余（物），遗迹；遗体，残骸
+9.impossible adj. 不可能的，办不到的；（境况）极其艰难的；（人）难以对付的 n. 不可能的事（the impossible）
+10.express v. 表达，表露；表现，体现；（用数学方法）表示；压榨，挤压出（空气或液体）；特快发运 n. 快车；快递；初速大的猎枪；专使；捷运公司 adj. 快递的，特快的；明确的；特意的 adv. 用快递寄送
+11.crude adj. 粗略的，大概的；粗糙的，粗制的；冒犯的，粗俗的；天然的，自然的 n. 原油；天然的物质
+jumped 跳跃，跃至，被偷袭，使猛升
+keep v. 保持，处于；继续，重复；耽搁，延误；保有，留下；存放，储存；经营，管理；保鲜；保守（秘密）；遵守；记录，记载；关押，拘留（尤在监狱或医院里）；饲养，供养；把守球门；（为性爱）包养（某人，尤指女性）；（按规定）纪念，庆祝；尊重（法律或习俗） n. 生活必需品，生活费用；城堡主楼 【名】 （Keep）（英）基普（人名）
+interactive adj. 交互式的，人机对话的；相互交流的，互动的
+criteria n. （评判或做决定的）标准，准则，尺度 （criterion 的复数）</description>
+    </item>
+    
+  </channel>
+</rss>
